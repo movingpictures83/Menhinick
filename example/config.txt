@@ -1,0 +1,2 @@
+Prefix plugins/Menhinick/example/
+Plugin Menhinick inputfile table.qza outputfile alpha_diversity.qza
